@@ -1,0 +1,24 @@
+{
+  "name": "income-budget-app",
+  "version": "1.0.0",
+  "description": "This is a personal project that divides income using 50/30/20 financial rules",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sgate-droid/Income-budget-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sgate-droid/Income-budget-app/issues"
+  },
+  "homepage": "https://github.com/Sgate-droid/Income-budget-app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
